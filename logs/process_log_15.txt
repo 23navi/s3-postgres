@@ -1,0 +1,39 @@
+Started processing IMEIs: 352016704391960 from 2024-12-06 to 2024-12-09
+Successfully processed IMEIs: 352016704391960
+(node:46901) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+(Use `node --trace-warnings ...` to show where the warning was created)
+Info: Processing total of 3 files
+
+
+Info: Currently processing file number 1 with key: IMEI-352016704391960/2024-12-06T00:00:00.000Z-352016704391960.xlsx
+Info: Got the excel sheet from s3 for 1
+Info: Inserted 38427 records successfully.
+%s: %s
+
+
+Info: 33% of total files are completed 
+ 
+
+Info: Currently processing file number 2 with key: IMEI-352016704391960/2024-12-07T00:00:00.000Z-352016704391960.xlsx
+Info: Got the excel sheet from s3 for 2
+Info: Inserted 37267 records successfully.
+%s: %s
+
+
+Info: 67% of total files are completed 
+ 
+
+Info: Currently processing file number 3 with key: IMEI-352016704391960/2024-12-08T00:00:00.000Z-352016704391960.xlsx
+Info: Got the excel sheet from s3 for 3
+Info: Inserted 46518 records successfully.
+%s: %s
+
+
+Info: 100% of total files are completed 
+ 
+
+Info: Data processing and insertion completed.

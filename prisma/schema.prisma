@@ -1,0 +1,36 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model latestData {
+  Actual       DateTime
+  Altitude     Float
+  Angle        Float
+  IMEI         String
+  Longitude    Float
+  Speed        Float
+  Timestamp    DateTime
+  Latitude     Float
+  CustomerCode Int
+
+  @@id([IMEI, Timestamp])
+}
+
+model templateData {
+  Actual       DateTime
+  Altitude     Float
+  Angle        Float
+  IMEI         String
+  Longitude    Float
+  Speed        Float
+  Timestamp    DateTime
+  Latitude     Float
+  CustomerCode Int
+
+  @@id([IMEI, Timestamp])
+}

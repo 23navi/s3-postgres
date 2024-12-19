@@ -1,0 +1,121 @@
+Started processing IMEIs: 352016704471085, 352016704373786, 350317177726928, 350317177724030, 350317177741133, 350317175335862, 123456789334556, 350317177755547, 350317177741125, 350317177744194 from 2024-12-06 to 2024-12-09
+Successfully processed IMEIs: 352016704471085, 352016704373786, 350317177726928, 350317177724030, 350317177741133, 350317175335862, 123456789334556, 350317177755547, 350317177741125, 350317177744194
+(node:46899) NOTE: The AWS SDK for JavaScript (v2) is in maintenance mode.
+ SDK releases are limited to address critical bug fixes and security issues only.
+
+Please migrate your code to use AWS SDK for JavaScript (v3).
+For more information, check the blog post at https://a.co/cUPnyil
+(Use `node --trace-warnings ...` to show where the warning was created)
+Info: Processing total of 27 files
+
+
+Info: Currently processing file number 1 with key: IMEI-350317175335862/2024-12-06T00:00:00.000Z-350317175335862.xlsx
+Info: Got the excel sheet from s3 for 1
+Info: Inserted 23670 records successfully.
+%s: %s
+
+
+Info: 4% of total files are completed 
+ 
+
+Info: Currently processing file number 2 with key: IMEI-350317175335862/2024-12-07T00:00:00.000Z-350317175335862.xlsx
+Info: Got the excel sheet from s3 for 2
+Info: Inserted 23649 records successfully.
+%s: %s
+
+
+Info: 7% of total files are completed 
+ 
+
+Info: Currently processing file number 3 with key: IMEI-350317175335862/2024-12-08T00:00:00.000Z-350317175335862.xlsx
+Info: Got the excel sheet from s3 for 3
+Info: Inserted 18184 records successfully.
+%s: %s
+
+
+Info: 11% of total files are completed 
+ 
+
+Info: Currently processing file number 4 with key: IMEI-350317177724030/2024-12-06T00:00:00.000Z-350317177724030.xlsx
+Info: Got the excel sheet from s3 for 4
+Info: Inserted 31688 records successfully.
+%s: %s
+
+
+Info: 15% of total files are completed 
+ 
+
+Info: Currently processing file number 5 with key: IMEI-350317177724030/2024-12-07T00:00:00.000Z-350317177724030.xlsx
+Info: Got the excel sheet from s3 for 5
+Info: Inserted 43352 records successfully.
+%s: %s
+
+
+Info: 19% of total files are completed 
+ 
+
+Info: Currently processing file number 6 with key: IMEI-350317177724030/2024-12-08T00:00:00.000Z-350317177724030.xlsx
+Info: Got the excel sheet from s3 for 6
+Info: Inserted 29008 records successfully.
+%s: %s
+
+
+Info: 22% of total files are completed 
+ 
+
+Info: Currently processing file number 7 with key: IMEI-350317177726928/2024-12-06T00:00:00.000Z-350317177726928.xlsx
+Info: Got the excel sheet from s3 for 7
+Info: Inserted 24879 records successfully.
+%s: %s
+
+
+Info: 26% of total files are completed 
+ 
+
+Info: Currently processing file number 8 with key: IMEI-350317177726928/2024-12-07T00:00:00.000Z-350317177726928.xlsx
+Info: Got the excel sheet from s3 for 8
+Info: Inserted 13537 records successfully.
+%s: %s
+
+
+Info: 30% of total files are completed 
+ 
+
+Info: Currently processing file number 9 with key: IMEI-350317177726928/2024-12-08T00:00:00.000Z-350317177726928.xlsx
+Info: Got the excel sheet from s3 for 9
+Info: Inserted 17194 records successfully.
+%s: %s
+
+
+Info: 33% of total files are completed 
+ 
+
+Info: Currently processing file number 10 with key: IMEI-350317177741125/2024-12-06T00:00:00.000Z-350317177741125.xlsx
+Info: Got the excel sheet from s3 for 10
+Info: Inserted 13338 records successfully.
+%s: %s
+
+
+Info: 37% of total files are completed 
+ 
+
+Info: Currently processing file number 11 with key: IMEI-350317177741125/2024-12-07T00:00:00.000Z-350317177741125.xlsx
+Info: Got the excel sheet from s3 for 11
+Info: Inserted 20490 records successfully.
+%s: %s
+
+
+Info: 41% of total files are completed 
+ 
+
+Info: Currently processing file number 12 with key: IMEI-350317177741125/2024-12-08T00:00:00.000Z-350317177741125.xlsx
+Info: Got the excel sheet from s3 for 12
+Info: Inserted 28070 records successfully.
+%s: %s
+
+
+Info: 44% of total files are completed 
+ 
+
+Info: Currently processing file number 13 with key: IMEI-350317177741133/2024-12-06T00:00:00.000Z-350317177741133.xlsx
+Info: Got the excel sheet from s3 for 13
