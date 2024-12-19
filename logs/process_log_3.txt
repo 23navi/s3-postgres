@@ -209,3 +209,74 @@ Info: 73% of total files are completed
 
 Info: Currently processing file number 23 with key: IMEI-352016704399070/2024-12-07T00:00:00.000Z-352016704399070.xlsx
 Info: Got the excel sheet from s3 for 23
+Info: Inserted 24482 records successfully.
+%s: %s
+
+
+Info: 77% of total files are completed 
+ 
+
+Info: Currently processing file number 24 with key: IMEI-352016704399070/2024-12-08T00:00:00.000Z-352016704399070.xlsx
+Info: Got the excel sheet from s3 for 24
+Info: Inserted 8672 records successfully.
+%s: %s
+
+
+Info: 80% of total files are completed 
+ 
+
+Info: Currently processing file number 25 with key: IMEI-352016704470426/2024-12-06T00:00:00.000Z-352016704470426.xlsx
+Info: Got the excel sheet from s3 for 25
+Info: Inserted 42011 records successfully.
+%s: %s
+
+
+Info: 83% of total files are completed 
+ 
+
+Info: Currently processing file number 26 with key: IMEI-352016704470426/2024-12-07T00:00:00.000Z-352016704470426.xlsx
+Info: Got the excel sheet from s3 for 26
+Info: Inserted 46900 records successfully.
+%s: %s
+
+
+Info: 87% of total files are completed 
+ 
+
+Info: Currently processing file number 27 with key: IMEI-352016704470426/2024-12-08T00:00:00.000Z-352016704470426.xlsx
+Info: Got the excel sheet from s3 for 27
+Info: Inserted 59113 records successfully.
+%s: %s
+
+
+Info: 90% of total files are completed 
+ 
+
+Info: Currently processing file number 28 with key: IMEI-352016704471135/2024-12-06T00:00:00.000Z-352016704471135.xlsx
+Info: Got the excel sheet from s3 for 28
+Info: Inserted 56882 records successfully.
+%s: %s
+
+
+Info: 93% of total files are completed 
+ 
+
+Info: Currently processing file number 29 with key: IMEI-352016704471135/2024-12-07T00:00:00.000Z-352016704471135.xlsx
+Info: Got the excel sheet from s3 for 29
+Info: Inserted 80465 records successfully.
+%s: %s
+
+
+Info: 97% of total files are completed 
+ 
+
+Info: Currently processing file number 30 with key: IMEI-352016704471135/2024-12-08T00:00:00.000Z-352016704471135.xlsx
+Info: Got the excel sheet from s3 for 30
+Info: Inserted 64831 records successfully.
+%s: %s
+
+
+Info: 100% of total files are completed 
+ 
+
+Info: Data processing and insertion completed.

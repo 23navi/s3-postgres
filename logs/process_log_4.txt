@@ -254,3 +254,38 @@ Info: 87% of total files are completed
 
 Info: Currently processing file number 28 with key: IMEI-352016704400597/2024-12-08T00:00:00.000Z-352016704400597.xlsx
 Info: Got the excel sheet from s3 for 28
+Info: Inserted 70691 records successfully.
+%s: %s
+
+
+Info: 90% of total files are completed 
+ 
+
+Info: Currently processing file number 29 with key: IMEI-352016704471077/2024-12-06T00:00:00.000Z-352016704471077.xlsx
+Info: Got the excel sheet from s3 for 29
+Info: Inserted 49381 records successfully.
+%s: %s
+
+
+Info: 94% of total files are completed 
+ 
+
+Info: Currently processing file number 30 with key: IMEI-352016704471077/2024-12-07T00:00:00.000Z-352016704471077.xlsx
+Info: Got the excel sheet from s3 for 30
+Info: Inserted 84571 records successfully.
+%s: %s
+
+
+Info: 97% of total files are completed 
+ 
+
+Info: Currently processing file number 31 with key: IMEI-352016704471077/2024-12-08T00:00:00.000Z-352016704471077.xlsx
+Info: Got the excel sheet from s3 for 31
+Info: Inserted 84753 records successfully.
+%s: %s
+
+
+Info: 100% of total files are completed 
+ 
+
+Info: Data processing and insertion completed.
